@@ -2,6 +2,8 @@
 
 ![Logo](assets/logo/logo.png)
 
+[Unduh sekarang](https://github.com/BosToken/EnvyGeneratePassword/releases/tag/v0.1)
+
 Hasilkan kata sandi secara acak dan mudah digunakan.
 
 Ini adalah [Ekstensi](https://chrome.google.com/webstore/category/extensions?hl=id) untuk Google Chrome, dibuat dengan ```HTML``` dan ```Javascript``` yang sangat sederhana, ekstensi ini dapat digunakan di mana saja dengan mudah.

@@ -2,6 +2,8 @@
 
 ![Logo](assets/logo/logo.png)
 
+[Download Now](https://github.com/BosToken/EnvyGeneratePassword/releases/tag/v0.1)
+
 Generate password randomly and easy to use.
 
 This is an for [Google Chrome Extension](https://chrome.google.com/webstore/category/extensions?hl=id), made with very simple ```HTML``` and ```Javascript```, this extension can be used anywhere easily.
