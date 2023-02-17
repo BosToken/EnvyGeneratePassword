@@ -24,7 +24,6 @@ Anda harus memilih panjang karakter kata sandi yang ingin Anda buat, dan pastika
 
 
 ## Bahasa README
-[English]()
+[English](https://github.com/BosToken/EnvyGeneratePassword/blob/master/README.md)
 
-[Indonesia]()
-z
+[Indonesia](https://github.com/BosToken/EnvyGeneratePassword/blob/master/README-ind.md)
