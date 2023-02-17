@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Password Generator</title>
+</head>
+
+<body>
+    <div class="header">
+        <h3>EnvyPassword</h3>
+        <hr>
+    </div>
+    <div class="content">
+        <br>
+        <form action="" id="generate">
+            <label>Choose Password Lenght:</label>
+            <br>
+            <select name="lenght" id="lenght">
+                <option value=16>16</option>
+                <option value=32>32</option>
+                <option value=64>64</option>
+                <option value=128>128</option>
+            </select>
+            <br><br><br>
+            <label class="container">ABC
+                <input type="checkbox" checked="checked" id="upperCase">
+                <span class="checkmark"></span>
+            </label>
+            <br>
+            <label class="container">abc
+                <input type="checkbox" checked="checked" id="lowerCase">
+                <span class="checkmark"></span>
+            </label>
+            <br>
+            <label class="container">123
+                <input type="checkbox" checked="checked" id="number">
+                <span class="checkmark"></span>
+            </label>
+            <br>
+            <label class="container">#$&
+                <input type="checkbox" id="character">
+                <span class="checkmark"></span>
+            </label>
+
+            <br><br>
+            <button type="submmit">Generate</button>
+        </form>
+
+        <form action="" id="copyPass">
+            <br>
+            <label>Your Password:</label>
+            <br>
+            <input type="text" id="passwordValue" value="" disabled>
+            <button type="submit">Copy</button>
+        </form>
+
+        <br>
+        <form action="" id="clearPass">
+            <button type="submit">Clear</button>
+        </form>
+
+
+    </div>
+
+    <script src="js/generate.js"></script>
+</body>
+
+</html>
