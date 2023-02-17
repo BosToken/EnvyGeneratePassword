@@ -24,6 +24,6 @@ You have to choose the character length of the password you want to generate, an
 
 
 ## Readme Language 
-[English]()
+[English](README.md)
 
-[Indonesia]()
+[Indonesia](README-ind.md)
